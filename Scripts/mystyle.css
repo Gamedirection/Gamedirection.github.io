@@ -116,3 +116,20 @@ font-size: 14px;  /* Increase font size */
 cursor: pointer;  /* Change cursor on hover */
 border-radius: 5px;  /* Slightly rounded corners */
 }
+
+/* Add a media query for mobile view */
+@media (max-width: 768px) {
+    /* Center the business cards in a row */
+    #business-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    /* Set a margin around the business cards to create spacing */
+    .flip-box {
+        margin: 10px;
+    }
+}
+
+
