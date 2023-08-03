@@ -1,0 +1,118 @@
+.flip-box {
+	background-color: transparent;
+	height: 250px;
+	border: 0px solid white;
+	perspective: 1000px;
+	float:left; 
+}
+
+.flip-box-inner {
+	position: relative;
+	height: 100%;
+	text-align: center;
+	transition: transform 0.8s;
+	transform-style: preserve-3d;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.flip-box:hover .flip-box-inner {
+	transform: rotateY(180deg);
+}
+
+.flip-box-front, .flip-box-back {
+	position: absolute;
+	max-height: 100%;
+	-webkit-backface-visibility: hidden; /* Safari */
+	backface-visibility: hidden;
+}
+
+.flip-box-front {
+	background-color: transparent;
+	color: white;
+}
+
+.flip-box-back {
+	background-color: transparent;
+	color: white;
+	transform: rotateY(180deg);
+}
+
+.flip-box .tags {
+	margin-top: 10px;
+	font-size: 0.9em;
+	color: #666;
+}
+
+.flip-box .tags span {
+	margin-right: 5px;
+	color: #00aae8;
+	cursor: pointer;
+}
+
+.flip-box .tags span:hover {
+	text-decoration: underline;
+}
+
+#tag-search {
+	margin-bottom: 20px;
+}
+
+#search-box {
+margin-bottom: 10px;
+padding: 5px;
+width: 200px;
+background-color: #ffffff;  /* white background */
+color: black;  /* Blue text */
+border: 1px solid #00aae8;  /* border */
+padding: 5px 10px;  /* Some padding */
+text-decoration: none;  /* Remove underline */
+font-size: 14px;  /* Increase font size */
+cursor: pointer;  /* Change cursor on hover */
+border-radius: 5px;  /* Slightly rounded corners */
+transition-duration: 0.4s;
+}
+
+#tag-buttons button {
+margin-right: 5px;
+margin-bottom: 5px;
+background-color: #00aae8;  /* Blue background */
+color: white;  /* White text */
+border: none;  /* Remove default border */
+padding: 5px 10px;  /* Some padding */
+text-decoration: none;  /* Remove underline */
+font-size: 14px;  /* Increase font size */
+cursor: pointer;  /* Change cursor on hover */
+border-radius: 5px;  /* Slightly rounded corners */
+transition-duration: 0.4s;
+}
+
+#tag-buttons button:hover {
+background-color: #00aae8;  /* Darker blue when hovered */
+}
+
+#clear-button {
+background-color: #ffffff;  /* Blue background */
+color: #00aae8;  /* Blue text */
+border: 1px solid #00aae8;  /* border */
+padding: 5px 10px;  /* Some padding */
+text-decoration: none;  /* Remove underline */
+font-size: 14px;  /* Increase font size */
+cursor: pointer;  /* Change cursor on hover */
+border-radius: 5px;  /* Slightly rounded corners */
+transition-duration: 0.4s;
+}
+
+#clear-button:hover {
+margin-right: 5px;
+margin-bottom: 5px;
+background-color: #00aae8;  /* Blue background */
+color: white;  /* White text */
+border: none;  /* Remove default border */
+padding: 5px 10px;  /* Some padding */
+text-decoration: none;  /* Remove underline */
+font-size: 14px;  /* Increase font size */
+cursor: pointer;  /* Change cursor on hover */
+border-radius: 5px;  /* Slightly rounded corners */
+}

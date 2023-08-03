@@ -1,0 +1,72 @@
+[
+    {
+        "id": "Ad",
+        "Email": "alex@gamedirection.net",
+        "Name": "Marketing",
+        "Company": "GameDirection",
+        "Phone": "(216) 200-8735",
+        "Contact Method": "Email",
+        "tags": ["All","Visual Arts", "Painting", "Drawing", "Design", "Animation", "Voice Acting", "Graphic Design", "Web Design", "Writing", "Fiction Writing", "Poetry", "Performing Arts", "Acting", "Voice Acting","Dance", "Film and Video", "Film Directing", "Video Editing", "Animation", "Crafts and DIY", "Pottery", "Woodworking", "Photography", "Portrait Photography", "Landscape Photography", "Multimedia and Interactive Arts", "Interactive Installations", "Virtual Reality (VR)", "Culinary Arts", "Baking and Pastry", "Culinary Design", "Performing Arts Management", "Event Planning", "Arts Marketing"],
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSew1nB3t38XmktA3kHRyPDxGkXWrljGUXku8WPgyOs5Svdc1A/viewform?usp=sf_link",
+        "Time Zone": "EST",
+        "Share Data": "Yes",
+    },
+    {
+      "id": "832023120007",
+      "Email": "alex@gamedirection.net",
+      "Name": "Alex Sierputowski",
+      "Company": "GameDirection",
+      "Phone": "216-200-8735",
+      "Contact Method": "Discord InterfaceAS#0001",
+      "tags": [
+        "Arts Marketing",
+        "Design",
+        "Drawing",
+        "Graphic Design",
+        "Landscape Photography",
+        "Painting",
+        "Photography",
+        "Virtual Reality (VR)",
+        "Web Design",
+        "Video Editing",
+        "Game Designer",
+        "Programmer"
+      ],
+      "url": "www.gamedirection.net",
+      "Time Zone": "EST 5-10pm",
+      "Share Data": [
+        "Yes"
+      ]
+    },
+    {
+      "id": "752023182555",
+      "Email": "j.goffik.art@gmail.com",
+      "Name": "J Goff",
+      "Company": "",
+      "Phone": "(440) 821-7288",
+      "Contact Method": "My Instagram: @j_goffik",
+      "tags": [
+        "Illustrator",
+        "Character Artist"
+      ],
+      "url": "https://jgoffik.wixsite.com/jgoffik-art",
+      "Time Zone": "Eastern Time Zone; Active Time 10 AM-4 PM and 10 PM-1 AM",
+      "Share Data": [
+        "Yes"
+      ]
+    },
+    {
+      "id": "772023214857",
+      "Email": "ed.wedig@gmail.com",
+      "Name": "Ed Wedig",
+      "Company": "EdWedig.com",
+      "Phone": "614-306-4892",
+      "Contact Method": "email/website form",
+      "tags": ["All", "Game Designer", "Graphic Design", "Web Design"],
+      "url": "www.EdWedig.com",
+      "Time Zone": "EST",
+      "Share Data": [
+        "Yes"
+      ]
+    }
+  ]
