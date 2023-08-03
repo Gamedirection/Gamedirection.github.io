@@ -1,8 +1,8 @@
 $(document).ready(function() {
     
     // Load the business card data from cards.json
+    //$.getJSON("https://gamedirection.github.io/Scripts/cards.json", function(cards) {
     $.getJSON("Scripts/cards.json", function(cards) {
-    //$.getJSON("Scripts/cards.json", function(cards) {
 
         // For each card, create an image element for side A and side B, a link, and tags
         cards.forEach(function(card) {

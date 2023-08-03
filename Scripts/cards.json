@@ -9,7 +9,7 @@
         "tags": ["All","Visual Arts", "Painting", "Drawing", "Design", "Animation", "Voice Acting", "Graphic Design", "Web Design", "Writing", "Fiction Writing", "Poetry", "Performing Arts", "Acting", "Voice Acting","Dance", "Film and Video", "Film Directing", "Video Editing", "Animation", "Crafts and DIY", "Pottery", "Woodworking", "Photography", "Portrait Photography", "Landscape Photography", "Multimedia and Interactive Arts", "Interactive Installations", "Virtual Reality (VR)", "Culinary Arts", "Baking and Pastry", "Culinary Design", "Performing Arts Management", "Event Planning", "Arts Marketing"],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSew1nB3t38XmktA3kHRyPDxGkXWrljGUXku8WPgyOs5Svdc1A/viewform?usp=sf_link",
         "Time Zone": "EST",
-        "Share Data": "Yes",
+        "Share Data": "Yes"
     },
     {
       "id": "832023120007",
@@ -19,6 +19,7 @@
       "Phone": "216-200-8735",
       "Contact Method": "Discord InterfaceAS#0001",
       "tags": [
+        "All",
         "Arts Marketing",
         "Design",
         "Drawing",
@@ -32,7 +33,7 @@
         "Game Designer",
         "Programmer"
       ],
-      "url": "www.gamedirection.net",
+      "url": "https://www.gamedirection.net",
       "Time Zone": "EST 5-10pm",
       "Share Data": [
         "Yes"
@@ -46,10 +47,28 @@
       "Phone": "(440) 821-7288",
       "Contact Method": "My Instagram: @j_goffik",
       "tags": [
+        "All",
         "Illustrator",
         "Character Artist"
       ],
       "url": "https://jgoffik.wixsite.com/jgoffik-art",
+      "Time Zone": "Eastern Time Zone; Active Time 10 AM-4 PM and 10 PM-1 AM",
+      "Share Data": [
+        "Yes"
+      ]
+    },
+    {
+      "id": "ArtByRichardK",
+      "Email": "ArtByRichardK@Gmail.com",
+      "Name": "Richard K",     
+      "Company": "",
+      "Phone": "",
+      "Contact Method": "My Email",
+      "tags": [
+        "All", 
+        "Illustrator"
+      ],
+      "url": "mailto:ArtByRichardK@Gmail.com",
       "Time Zone": "Eastern Time Zone; Active Time 10 AM-4 PM and 10 PM-1 AM",
       "Share Data": [
         "Yes"
