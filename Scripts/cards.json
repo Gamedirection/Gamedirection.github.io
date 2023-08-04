@@ -87,5 +87,19 @@
       "Share Data": [
         "Yes"
       ]
+    },
+    {
+      "id": "MonstaTama",
+      "Email": "",
+      "Name": "Robert Durant",
+      "Company": "MonstaTama",
+      "Phone": "",
+      "Contact Method": "Email or Discord #PastureMaster",
+      "tags": ["All", "Game Designer"],
+      "url": "http://kck.st/3NNZG5t",
+      "Time Zone": "EST",
+      "Share Data": [
+        "Yes"
+      ]
     }
   ]
