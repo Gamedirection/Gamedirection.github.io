@@ -31,7 +31,8 @@
         "Web Design",
         "Video Editing",
         "Game Designer",
-        "Programmer"
+        "Programmer",
+        "Consulting"
       ],
       "url": "https://www.gamedirection.net",
       "Time Zone": "EST 5-10pm",
@@ -83,6 +84,20 @@
       "Contact Method": "email/website form",
       "tags": ["All", "Game Designer", "Graphic Design", "Web Design"],
       "url": "www.EdWedig.com",
+      "Time Zone": "EST",
+      "Share Data": [
+        "Yes"
+      ]
+    },
+    {
+      "id": "PreviouslyPluto",
+      "Email": "Contact@previouslypluto.com",
+      "Name": "Previously Pluto",
+      "Company": "PreviouslyPluto",
+      "Phone": "",
+      "Contact Method": "Email",
+      "tags": ["All", "Game Designer", "Media", "Content Creation", "Publisher", "Marketing", "Art", "Graphic Design", "Webdesign", "VR Development", "Game Development", "Boardgame", "Video Game", "Visual Novel", "Consulting"],
+      "url": "http:previouslypluto.com",
       "Time Zone": "EST",
       "Share Data": [
         "Yes"
